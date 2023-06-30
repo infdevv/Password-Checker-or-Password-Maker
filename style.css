@@ -1,0 +1,22 @@
+body{
+    background-color: lightskyblue;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+
+.main-box{
+
+    border-color: pink;
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+    position: center;
+    background-color: azure;
+
+}
+
+button{
+    border-radius: 5px;
+    border-color: grey;
+
+}
